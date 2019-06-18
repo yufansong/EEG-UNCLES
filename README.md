@@ -9,5 +9,5 @@ Because of some future work, I have not open the EEG dataset and intermediate re
 # Acknowledge
 
 * Thanks for Prof. [Asoke Nandi](http://www.brunel.ac.uk/people/asoke-k-nandi)'s advise.
-* Thanks for Prof. [Steffen Gais](https://www.medizin.uni-tuebingen.de/en/Patients/Institutes/Medical+Psychology/Staff/Prof_+Dr_+Steffen+Gais-EGOTEC-j13isv71e4kjmbeob16hs1tts535nn3t-port-10011-p-93170.html) Dataset.
+* Thanks for Prof. [Steffen Gais](https://www.medizin.uni-tuebingen.de/en/Patients/Institutes/Medical+Psychology/Staff/Prof_+Dr_+Steffen+Gais-EGOTEC-j13isv71e4kjmbeob16hs1tts535nn3t-port-10011-p-93170.html)'s Dataset.
 * Thanks for [Basel Abu Jamous](https://baselabujamous.com/)'s email/skype help and code.
