@@ -1,0 +1,2 @@
+original picture里面放的是把一个condition下面两个label放在一起的结果，红色是label13，蓝色是label23
+magify picture是放大图，放大了0-100hz
